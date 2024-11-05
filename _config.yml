@@ -1,14 +1,16 @@
 title: Portfolio
-author: 
+author: Kyrem
 email: kyremortiz23@gmail.com
 description: >- 
   Capturing the essence of my surroundings.  
 
 social:
   instagram: kyremortiz
+  youtube: kyremortiz1486
 
 # Build settings
 markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
